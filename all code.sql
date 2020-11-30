@@ -1,4 +1,4 @@
-USE `ht20_2_project_group_77`;
+USE 'ht20_2_project_group_77';
 
 CREATE TABLE IF NOT EXISTS User (
     PersonalNumber CHAR(12) NOT NULL UNIQUE,
